@@ -6,7 +6,7 @@ Linguagens e estruturas utilizadas:
 - HTML (div,footer,label,input)
 - CSS
 - JavaScript (precisei da ajuda da Inteligência Artificial, pois não aprendi a linguagem ainda).
-- 
+
 Nesta página contém login e cadastro com:
 
 Login
