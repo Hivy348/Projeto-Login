@@ -1,4 +1,4 @@
-# Projeto-Login
+# Projeto-Login e Cadastro
 Este projeto foi feito com o objetivo de inicio de portfólio.
 
 Linguagens e estruturas utilizadas:
@@ -19,4 +19,5 @@ Cadastro:
 - Nome
 - E-mail
 - Senha
+- Cadastrar
 - Link de retorno a página de login quando já tem conta
