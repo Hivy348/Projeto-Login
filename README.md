@@ -1,7 +1,5 @@
 # Projeto-Login e Cadastro
-Este projeto foi feito com o objetivo de inicio de portfólio.
-
-Este projeto consoste no desenvolvimento de uma página de login e cadastro com tematica de flor utilizando em maior foco HTML e CSS,com uma pequena aplicação de Javascript feita por Inteligência Artificial para interações básicas.
+Este projeto foi feito com o objetivo de ser um produto inicial de portfólio. Consiste no desenvolvimento de uma página de login e cadastro com tematica de flor utilizando em maior foco HTML e CSS,com uma pequena aplicação de Javascript feita por Inteligência Artificial para interações básicas.
 O objetivo é apresentar uma interface viasualmente agradável,alegre,responsiva e funcional para a autenticação de usuários em aplicações web.
 
 Nesta página contém login e cadastro com:
