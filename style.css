@@ -1,0 +1,134 @@
+
+*  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("fundo.png") ;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /*vh = altura da viewport*/
+    min-height: 100vh;
+    flex-direction: column;
+}
+.container  {
+    background: aliceblue;
+    padding: 50px 20px;
+    position: relative;
+    display: none;
+    border-radius: 12px;
+    width: 300px;
+    height: 480px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+    text-align: center;
+    margin: auto;
+}
+.container button{
+    background:#ffff00;
+    width: 20%;
+    padding: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 25px;
+}
+.container label {
+    display: block; /* faz o label ocupar a linha toda */
+    text-align: left;
+    font-size: 19px;
+    margin-bottom: 5px;
+}
+.container input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+}
+.flor{
+    position: absolute;
+    top: 20px; /*sobe ou desce a flor*/
+    left: 50%;
+    transform: translateX(-50%);
+    width: 70px;
+}
+.flor-cadastro{
+    position: absolute;
+    top: 40px; /*sobe ou desce a flor*/
+    left: 50%;
+    transform: translateX(-50%); /*serve para mover,girar,aumentar,diminuir ou inclinar um elemento*/
+    width: 80px;
+}
+h1 {
+    margin-bottom: 25px;
+    font-family: cursive;    
+}
+h2 {
+    font-family: cursive;
+    position: relative;
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+#Cadastro {
+    display: inline-block;
+    position: relative;
+}
+#Cadastro button {
+    width: 50%;
+    padding: 16px;
+    border-radius: 25px;
+    font-size: 16px;
+
+}
+
+.link {
+    color: #000;
+    cursor: pointer;
+    text-decoration: none;
+}
+.link a:hover {
+    text-decoration: underline;
+}
+.social {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px; /*espaço entre os icones e o texto*/
+    margin-bottom: 20px; /* espaço extra acima do texto*/
+}
+.social a{
+    text-decoration: none;
+    margin: 0 5px;
+}
+.social span {
+    display: inline-flex;
+    width: 35px;
+    height: 35px;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    border: 2px solid #000;
+}
+.facebook{
+    background: linear-gradient(#0a66c2,#5ea3e8) ;
+    text-align: center;
+    font-family: cursive;
+}
+.x{
+    background:#000000 ;
+    text-align: center;
+    font-family: cursive;
+}
+.gmail{
+    background: linear-gradient(#db4437,#a53d33) ;
+    text-align: center;
+    font-family: cursive;
+}
+
+footer{
+    background: #fff;
+    text-align: centro;
+    padding: 7px;
+}
