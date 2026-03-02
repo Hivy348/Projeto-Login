@@ -13,7 +13,7 @@ Nesta página contém login e cadastro com:
 - Link para a página de cadastro
 - Redes Sociais(Facebook,X e Gmail)
 
-Cadastro:
+📝Cadastro:
 - Uma flor centralizada em cima da palavra
 - Nome
 - E-mail
