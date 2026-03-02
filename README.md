@@ -6,7 +6,7 @@ Nesta página contém login e cadastro com:
 
 Fundo florido
 
-Login
+🔐Login
 - Uma flor centralizada em cima da palavra
 - Usuário e Senha
 - Entrar
