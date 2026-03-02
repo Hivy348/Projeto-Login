@@ -4,7 +4,7 @@ O objetivo é apresentar uma interface visualmente agradável,alegre,responsiva 
 
 Nesta página contém login e cadastro com:
 
-Fundo florido
+🌼Fundo florido
 
 🔐Login
 - Uma flor centralizada em cima da palavra
