@@ -21,6 +21,6 @@ Nesta página contém login e cadastro com:
 - Cadastrar
 - Link de retorno a página de login quando já tem conta
 
-Autoria
+✍️ Autoria
 Projeto desenvolvido como prática de HTML e CSS e o uso do Canva.
 Toda a lógica em Javascript foi feita com o auxílio do ChatGPT como ferramenta de apoio e aprendizado. 
