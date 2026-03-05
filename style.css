@@ -18,7 +18,7 @@ body{
     background: aliceblue;
     padding: 50px 20px;
     position: relative;
-    display: inline-block;
+    display: block;
     border-radius: 12px;
     width: 300px;
     height: 480px;
@@ -133,4 +133,5 @@ footer{
     padding: 7px;
 
 }
+
 
